@@ -1,4 +1,4 @@
-# Chatbot(SE125 Machine Learning)Project
+# Chatbot(SE125 Machine Learning Project)
 A chatbot implemented by transformer encoder and RNN decoder
 - Baseline(RNN Encoder+RNN Decoder):SE125Proj2_baseline.ipynb 
 - Attention:SE125Proj2_attention.ipynb
